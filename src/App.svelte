@@ -70,5 +70,6 @@
     color: white;
     font-size: 24px;
     padding: 24px;
+    cursor: pointer;
   }
 </style>
