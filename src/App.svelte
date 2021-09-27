@@ -59,8 +59,10 @@
     justify-content: center;
     align-items: center;
     width: 100%;
+    box-sizing: border-box;
   }
   .container {
+    max-width: 500px;
     width: 100%;
     height: 100%;
     background-color: blanchedalmond;
